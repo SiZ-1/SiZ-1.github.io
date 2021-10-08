@@ -13,9 +13,9 @@ font-size: 12px;
       <img src
       }
 #header {
-      background-image: url(https://phonoteka.org/uploads/posts/2021-04/thumbs/1619192086_27-phonoteka_org-p-fon-dlya-profilya-feisit-31.jpg);
+      background-image: url(https://img2.goodfon.ru/wallpaper/original/3/a8/astralis-logo-art-red-team.jpg);
       /*background-repeat: no-repeat;*/
-      background-size: 930px 230px;
+      background-size: 924px 296px;
       /*background: black;*/
       height: 210px;
       img: url(icon.png);
@@ -41,13 +41,13 @@ border:30px outset red;
 }
 
 .ayak{
-      color: blue;
+      color: red;
       font-size:33px;
       font-family: Bell MT;
       text-align: center;
 }
 .lor{
-    color: #BA55D3;
+    color: #f3f2f3;
     font-size: 20px;
     font-family: Arial;
 }
@@ -82,7 +82,7 @@ border:30px outset red;
     white-space: normal;
     display: inline-block;
     width: 34%;
-    height: 345px;
+    height: 460px;
     vertical-align: top;
     background: white;
 }
@@ -112,10 +112,10 @@ border:30px outset red;
 .texts{
       text-align: left;
       font-size: 15px;
-      color: #00008B;
+      color: #black;
 }
 .icons1{
-      background-image: url(art.png);
+      background-image: url(https://assets.faceit-cdn.net/hubs/avatar/1837d0e9-9372-40aa-aea6-268d7a147015_1578326149989.jpg);
       text-align: center;
       display: block; margin: 0 auto;
       width: 100px;
@@ -125,7 +125,7 @@ border:30px outset red;
 
 }
 .icons2{
-      background-image: url(art2.png);
+      background-image: url(https://steamuserimages-a.akamaihd.net/ugc/833574670412738362/5BF580F729A025151E7CC86CBAC225B788DF1335/);
       text-align: center;
       display: block; margin: 0 auto;
       width: 100px;
@@ -135,7 +135,7 @@ border:30px outset red;
 
 }
 .icons3{
-      background-image: url(art3.png);
+      background-image: url(https://www.hltv.org/img/static/event/mvpSilver.png);
       text-align: center;
       display: block; margin: 0 auto;
       width: 100px;
