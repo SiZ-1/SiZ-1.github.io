@@ -23,7 +23,7 @@ font-size: 12px;
 
       }
 #bg{
-      background-image: url(map.jpg);
+      background-image: url();
 }
 
 .text{
@@ -103,7 +103,7 @@ border:30px outset red;
       text-align: center;
 }
 /*.icon{
-      background-image:url(icon.png);
+      background-image:url();
       width: 100px;
       height: 100px;
       background-repeat: no-repeat;
