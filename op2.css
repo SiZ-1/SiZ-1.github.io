@@ -146,27 +146,27 @@ border:30px outset red;
 }
 .content{background-color: #FBFBFB; position: relative;margin: 0;padding: 0;border: 0;float: left;overflow: hidden; max-width: 768px; width: 100%;}
 .sidebar1{background-color: #FBFBFB; position: relative;margin-right: 0;padding: 0;border: 0;float: left;overflow: hidden; width: 100%; max-width: 268px;}
-blockquote{margin:10px 10px 10px 35px;}
+blockquote{margin:20px 20px 20px 35px;}
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
   .content{max-width: none; width: 100%;}
   .sidebar1{max-width: none; width: 100%;}
-  blockquote{margin:10px;}
+  blockquote{margin:20px;}
 }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
   .content{max-width: none; width: 100%;}
   .sidebar1{max-width: none; width: 100%;}
-  blockquote{margin:10px;}
+  blockquote{margin:20px;}
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
   .content{max-width: none; width: 100%;}
   .sidebar1{max-width: none; width: 100%;}
-  blockquote{margin:10px;}
+  blockquote{margin:20px;}
 }
 
 /* Custom, iPhone Retina */
