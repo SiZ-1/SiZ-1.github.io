@@ -15,15 +15,15 @@ font-size: 12px;
 #header {
       background-image: url(https://img2.goodfon.ru/wallpaper/original/3/a8/astralis-logo-art-red-team.jpg);
       /*background-repeat: no-repeat;*/
-      background-size: 924px 296px;
+      background-size: 940px 296px;
       /*background: black;*/
       height: 210px;
       img: url(icon.png);
-      width: 900px;
+      width: 925px;
 
       }
 #bg{
-  
+      background-image: url(map.jpg);
 }
 
 .text{
@@ -67,13 +67,13 @@ border:30px outset red;
       }
       #content {
       background-image:url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612890284_180-p-cherno-krasnii-fon-dlya-yutuba-232.jpg) ;
-      width: 900px;
-      height: 1172px;
+      width: 925px;
+      height: 1850px;
       }
 #footer {
       background: #838283;
-      height: 180px;
-      width: 900px;
+      height: 275px;
+      width: 925px;
       }
 .colon {
       white-space: nowrap;
@@ -81,7 +81,7 @@ border:30px outset red;
 .colom {
     white-space: normal;
     display: inline-block;
-    width: 34%;
+    width: 33%;
     height: 460px;
     vertical-align: top;
     background: white;
@@ -142,35 +142,6 @@ border:30px outset red;
       height: 100px;
       background-repeat: no-repeat;
       background-size: 100px 100px;
-
-}
-.content{background-color: #FBFBFB; position: relative;margin: 0;padding: 0;border: 0;float: left;overflow: hidden; max-width: 768px; width: 100%;}
-.sidebar1{background-color: #FBFBFB; position: relative;margin-right: 0;padding: 0;border: 0;float: left;overflow: hidden; width: 100%; max-width: 268px;}
-blockquote{margin:20px 20px 20px 35px;}
-
-/* Medium Devices, Desktops */
-@media only screen and (max-width : 992px) {
-  .content{max-width: none; width: 100%;}
-  .sidebar1{max-width: none; width: 100%;}
-  blockquote{margin:20px;}
-}
-
-/* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
-  .content{max-width: none; width: 100%;}
-  .sidebar1{max-width: none; width: 100%;}
-  blockquote{margin:20px;}
-}
-
-/* Extra Small Devices, Phones */
-@media only screen and (max-width : 480px) {
-  .content{max-width: none; width: 100%;}
-  .sidebar1{max-width: none; width: 100%;}
-  blockquote{margin:20px;}
-}
-
-/* Custom, iPhone Retina */
-@media only screen and (max-width : 320px) {
 
 }
 
